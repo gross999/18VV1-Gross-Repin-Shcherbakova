@@ -1,0 +1,5 @@
+﻿  lab1.1.cpp
+d:\yniver2019\2021_3kyrs\zathitainfy\lab1.1\lab1.1\lab1.1.cpp(37): warning C4101: data: неиспользованная локальная переменная
+d:\yniver2019\2021_3kyrs\zathitainfy\lab1.1\lab1.1\lab1.1.cpp(93): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char *"
+  d:\yniver2019\2021_3kyrs\zathitainfy\lab1.1\lab1.1\lab1.1.cpp(93): note: рекомендуется использовать "%hhd" в строке форматирования
+  lab1.1.vcxproj -> D:\Yniver2019\2021_3kyrs\ZathitaInfy\lab1.1\Debug\lab1.1.exe

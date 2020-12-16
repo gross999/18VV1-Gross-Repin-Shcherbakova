@@ -1,0 +1,6 @@
+﻿  Lab2.cpp
+d:\yniver2019\2021_3kyrs\zathitainfy\lab2\lab2\lab2.cpp(33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+d:\yniver2019\2021_3kyrs\zathitainfy\lab2\lab2\lab2.cpp(96): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char *"
+  d:\yniver2019\2021_3kyrs\zathitainfy\lab2\lab2\lab2.cpp(96): note: рекомендуется использовать "%hhd" в строке форматирования
+d:\yniver2019\2021_3kyrs\zathitainfy\lab2\lab2\lab2.cpp(88): warning C4715: coder_decoder: значение возвращается не при всех путях выполнения
+  Lab2.vcxproj -> D:\Yniver2019\2021_3kyrs\ZathitaInfy\Lab2\Debug\Lab2.exe

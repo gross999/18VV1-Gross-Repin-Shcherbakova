@@ -1,0 +1,3 @@
+﻿  lab3_1.cpp
+d:\yniver2019\2021_3kyrs\zathitainfy\lab3_1\lab3_1\lab3_1.cpp(34): warning C4244: =: преобразование "time_t" в "unsigned short", возможна потеря данных
+  lab3_1.vcxproj -> D:\Yniver2019\2021_3kyrs\ZathitaInfy\lab3_1\Debug\lab3_1.exe

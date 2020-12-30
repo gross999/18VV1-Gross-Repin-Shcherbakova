@@ -1,0 +1,12 @@
+﻿  laba5.cpp
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(35): warning C4474: "_snprintf_s" : для строки формата передано слишком много аргументов
+  d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(35): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 6
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(192): warning C4101: cbAclInfo: неиспользованная локальная переменная
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(189): warning C4101: pAcl: неиспользованная локальная переменная
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(181): warning C4101: group: неиспользованная локальная переменная
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(183): warning C4101: groupSidString: неиспользованная локальная переменная
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(193): warning C4101: dwAclInfoClass: неиспользованная локальная переменная
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(191): warning C4101: pAclInformation: неиспользованная локальная переменная
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(188): warning C4101: lpbDaclPresent: неиспользованная локальная переменная
+d:\yniver2019\2021_3kyrs\zathitainfy\miha\laba5\laba5\laba5.cpp(215): warning C4715: getDacleString: значение возвращается не при всех путях выполнения
+  laba5.vcxproj -> D:\Yniver2019\2021_3kyrs\ZathitaInfy\Miha\laba5\Debug\laba5.exe
